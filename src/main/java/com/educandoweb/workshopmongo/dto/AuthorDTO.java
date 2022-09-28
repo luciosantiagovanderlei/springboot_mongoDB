@@ -6,9 +6,7 @@ import com.educandoweb.workshopmongo.domain.User;
 
 public class AuthorDTO implements Serializable {
 	
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 1L;
 	private String id;
 	private String name;
